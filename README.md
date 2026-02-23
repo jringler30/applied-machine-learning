@@ -1,7 +1,6 @@
-# Machine Learning Experiments in Google Colab
+# Applied Machine Learning Projects
 
-This repository contains a collection of side projects I built during my undergraduate studies 
-to learn and experiment with machine learning concepts using Google Colab.
+A curated set of applied ML notebooks (classification, NLP, and deep learning) with clear objectives, evaluation, and reproducible runs in Google Colab.
 
 ## Projects
 1. **Convolutional Neural Network**  
